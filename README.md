@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I'm Aslihan!  <br><br>I'm an aspiring "QA Engineer / SDET", currently learning  Java and exploring  test automation tools like Selenium, JUnit, Postman and Appium.  <br>My goal is to build strong skills in software testing and automation, contribute to high-quality projects, and grow into a versatile test engineer.  <br><br>I enjoy problem-solving, continuous learning, and working on projects where I can improve both my technical and analytical skills. 🚀<br>
+👋 Hey, I'm Aslihan!  <br><br>I'm an aspiring "QA Engineer / SDET", currently learning  Java and exploring  test automation tools like Selenium, JUnit, Postman and Appium.  <br>My goal is to build strong skills in software testing and automation, contribute to high-quality projects, and grow into a versatile test engineer.  <br><br>I enjoy problem-solving, continuous learning, and working on projects where I can improve both my technical and analytical skills. 🚀<br>
 
 
 ## 🌐 Socials:
